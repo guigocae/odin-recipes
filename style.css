@@ -1,0 +1,19 @@
+body {
+    font-family: Garamond, sans-serif;
+    background-color: #E4E4DE;
+    color: #1B1B1B;
+}
+.lista {
+    background-color: #C4C5BA;
+}
+.title {
+    color: #595f39;
+}
+.title.one {
+    font-size: 38px;
+    background-color: #C4C5BA;
+}
+strong {
+    font-weight: 700;
+    color: #1B1B1B;
+}
