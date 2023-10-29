@@ -5,9 +5,15 @@ body {
 }
 .lista {
     background-color: #C4C5BA;
+    width: 320px;
+    margin: auto;
+    padding: 20px;
 }
 .title {
     color: #595f39;
+    width: 300px;
+    text-align: center;
+    margin: 20px auto;
 }
 .title.one {
     font-size: 38px;
@@ -16,4 +22,21 @@ body {
 strong {
     font-weight: 700;
     color: #1B1B1B !important;
+}
+img {
+    display: block;
+    margin: auto;
+}
+p {
+    width: 700px;
+    margin: auto;
+}
+.back {
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+    background-color: #595f39;
+    color: white;
+    padding: 6px 10px;
+    text-decoration: none;
 }
